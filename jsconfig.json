@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src"
+    },
+    "include": ["src", "archived_files/Profile.js"]
+  }
